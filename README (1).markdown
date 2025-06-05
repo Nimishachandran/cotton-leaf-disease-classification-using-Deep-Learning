@@ -46,7 +46,7 @@ cotton-leaf-disease-classification/
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/cotton-leaf-disease-classification.git
+   git clone https://github.com/Nimishachandran/cotton-leaf-disease-classification.git
    cd cotton-leaf-disease-classification
    ```
 
@@ -130,8 +130,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, reach out via:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [Nimishachandran](https://github.com/Nimishachandran)
+- Email: nimishachandransr2002@gmail.com
 
 ---
 
