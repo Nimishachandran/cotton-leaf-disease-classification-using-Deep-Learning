@@ -1,6 +1,6 @@
 # Cotton Leaf Disease Classification with VGG16, VGG19, and ResNet50
 
-![Cotton Leaf Disease](https://via.placeholder.com/800x200.png?text=Cotton+Leaf+Disease+Classification)  
+![Cotton Leaf Disease](Screenshot 2025-06-05 130124.png)  
 *Classifying cotton leaf diseases using deep learning models: VGG16, VGG19, and ResNet50*
 
 ## Project Overview
