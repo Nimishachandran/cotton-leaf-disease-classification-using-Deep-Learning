@@ -103,16 +103,7 @@ The [Cotton Leaf Disease Dataset](https://www.kaggle.com/datasets/seroshkarim/co
   - **ResNet50**: (Add accuracy, e.g., ~86% on validation set)
 - **Comparison**: (Briefly describe which model performed best after your experiments)
 
-### Sample Predictions
 
-Below are example predictions from the models on test images from the dataset:
-
-| Image | True Label | Predicted Label (VGG16) | Predicted Label (VGG19) | Predicted Label (ResNet50) |
-|-------|------------|-------------------------|-------------------------|----------------------------|
-| ![Sample 1](images/sample_prediction1.jpg) | Bacterial Blight | Bacterial Blight | Bacterial Blight | Bacterial Blight |
-| ![Sample 2](images/sample_prediction2.jpg) | Healthy | Healthy | Healthy | Bacterial Blight |
-
-*Note*: Replace `sample_prediction1.jpg` and `sample_prediction2.jpg` with actual images from your model predictions. Upload these to the `images/` folder in the repository.
 
 ## Contributing
 
